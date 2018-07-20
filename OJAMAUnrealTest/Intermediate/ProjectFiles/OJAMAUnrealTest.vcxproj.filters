@@ -46,9 +46,15 @@
     <ClInclude Include="..\..\Source\OJAMAUnrealTest\PositionReport.h">
       <Filter>Source\OJAMAUnrealTest</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\OJAMAUnrealTest\OpenDoor.h">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\OJAMAUnrealTest\PositionReport.cpp">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\OJAMAUnrealTest\OpenDoor.cpp">
       <Filter>Source\OJAMAUnrealTest</Filter>
     </ClCompile>
   </ItemGroup>

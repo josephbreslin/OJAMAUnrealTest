@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OJAMAUnrealTest-2345.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\OJAMAUnrealTest.cpp.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.cpp.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\PositionReport.cpp.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\OJAMAUnrealTest.init.gen.cpp.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.gen.cpp.obj"
+"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\PositionReport.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\OJAMAUnrealTest\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-2345.lib"

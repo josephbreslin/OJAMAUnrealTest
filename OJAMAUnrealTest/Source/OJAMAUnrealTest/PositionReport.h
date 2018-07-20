@@ -16,6 +16,7 @@ public:
 	// Sets default values for this component's properties
 	UPositionReport();
 
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;

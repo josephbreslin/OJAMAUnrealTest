@@ -677,3 +677,737 @@ LogInit: Object subsystem initialized
 [2018.07.20-11.26.20:344][639]LogSlate: Window 'Class Viewer' being destroyed
 [2018.07.20-11.26.32:472][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.07.20-11.26.32:475][512]LogSlate: Window 'Class Viewer' being destroyed
+[2018.07.20-11.46.28:269][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.46.28:273][382]LogSlate: Window 'Class Viewer' being destroyed
+[2018.07.20-11.47.21:770][122]LogSlate: Window 'Class Viewer' being destroyed
+[2018.07.20-11.47.21:777][122]LogSlate: Window 'Class Viewer' being destroyed
+[2018.07.20-11.47.24:734][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-11.47.39:485][ 35]LogSlate: Took 0.005307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.20-11.48.04:152][ 35]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe OJAMAUnrealTest Win64 Development -editorrecompile "C:/Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/OJAMAUnrealTest.uproject" -invalidatemakefilesonly
+[2018.07.20-11.48.04:456][ 35]Invalidating makefiles only in this run.
+[2018.07.20-11.48.04:580][ 35]Candidate modules for hot reload:
+[2018.07.20-11.48.04:580][ 35]  OJAMAUnrealTest
+[2018.07.20-11.48.04:581][ 35]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe OJAMAUnrealTest -ModuleWithSuffix=OJAMAUnrealTest,3746 Win64 Development -editorrecompile -canskiplink "C:/Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/OJAMAUnrealTest.uproject" ]
+[2018.07.20-11.48.22:362][ 35]CompilerResultsLog: New page: Compilation - 20 Jul 2018 13:48:22
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Creating makefile for hot reloading OJAMAUnrealTest (no existing makefile)
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Compiling game modules for hot reload
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Parsing headers for OJAMAUnrealTestEditor
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\OJAMAUnrealTest.uproject" "C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\OJAMAUnrealTestEditor\Development\OJAMAUnrealTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Reflection code generated for OJAMAUnrealTestEditor in 9.7029606 seconds
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: OJAMAUnrealTest.init.gen.cpp
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: PositionReport.cpp
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: PositionReport.gen.cpp
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: [4/5] Link UE4Editor-OJAMAUnrealTest-3746.dll
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: [5/5] Link UE4Editor-OJAMAUnrealTest-3746.lib
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog:    Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-3746.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-3746.exp
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog:    Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-3746.suppressed.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-3746.suppressed.exp
+[2018.07.20-11.48.22:363][ 35]CompilerResultsLog: Total build time: 17.57 seconds (Local executor: 1.62 seconds)
+[2018.07.20-11.48.22:363][ 35]LogMainFrame: MainFrame: Module compiling took 17.791 seconds
+[2018.07.20-11.48.22:404][ 35]LogClass: Could not find existing class PositionReport in package /Script/OJAMAUnrealTest for HotReload, assuming new class
+[2018.07.20-11.48.22:407][ 35]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2018.07.20-11.48.22:408][ 35]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-11.48.22:526][ 35]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-11.48.22:531][ 35]Display: HotReload took 18.0s.
+[2018.07.20-11.48.22:532][ 35]Warning: HotReload operation took 18.0s.
+[2018.07.20-11.48.25:197][ 35]LogSlate: Window 'Add C++ Component' being destroyed
+[2018.07.20-11.48.25:216][ 35]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-3746.dll
+[2018.07.20-11.48.25:295][ 36]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-11.48.25:345][ 36]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2018.07.20-11.48.25:347][ 36]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-11.48.25:371][ 36]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-11.48.25:380][ 36]Display: HotReload took  0.1s.
+[2018.07.20-11.48.47:153][101]LogSavePackage: Save=34.11ms
+[2018.07.20-11.48.47:153][101]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto1E63895404340E6A5FB39F4BD219E45F1.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto1.umap'
+[2018.07.20-11.48.47:155][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto1.umap
+[2018.07.20-11.48.47:162][101]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.070
+[2018.07.20-11.48.47:163][101]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
+[2018.07.20-12.00.05:883][461]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.20-12.00.05:990][462]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.OJAMAUnrealTest
+[2018.07.20-12.00.05:990][462]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.20-12.00.05:990][462]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.20-12.00.05:990][462]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.20-12.00.05:990][462]LogTemp: BranchPath = DESKTOP-R15A5CV/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-R15A5CV/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.20-12.00.05:990][462]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sbgjo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.20-12.04.16:374][915]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.20-12.04.16:381][915]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.20-12.12.06:338][739]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-12.12.06:357][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-12.12.06:358][739]PIE: New page: PIE session: Level_1 (20 Jul 2018 14:12:06)
+[2018.07.20-12.12.06:358][739]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-12.12.06:361][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003465s)
+[2018.07.20-12.12.06:364][739]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-12.12.06:365][739]LogPlayLevel: PIE: World Init took: (0.002986s)
+[2018.07.20-12.12.06:365][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.006796s)
+[2018.07.20-12.12.06:386][739]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-12.12.06:408][739]LogInit: FAudioDevice initialized.
+[2018.07.20-12.12.06:450][739]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-12.12.06:452][739]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-13.12.06
+[2018.07.20-12.12.06:453][739]LogWorld: Bringing up level for play took: 0.001008
+[2018.07.20-12.12.06:455][739]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.226
+[2018.07.20-12.12.17:248][377]LogSlate: Took 0.010748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.20-12.12.19:145][481]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-5674.dll
+[2018.07.20-12.12.20:075][533]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-12.12.20:151][533]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2018.07.20-12.12.20:153][533]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-12.12.20:200][533]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-12.12.20:212][533]Display: HotReload took  0.1s.
+[2018.07.20-12.12.36:935][533]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-12.12.36:952][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-12.12.36:953][533]PIE: New page: PIE session: Level_1 (20 Jul 2018 14:12:36)
+[2018.07.20-12.12.36:953][533]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-12.12.36:956][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002731s)
+[2018.07.20-12.12.36:957][533]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-12.12.36:959][533]LogPlayLevel: PIE: World Init took: (0.002302s)
+[2018.07.20-12.12.36:959][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.006068s)
+[2018.07.20-12.12.36:978][533]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-12.12.36:998][533]LogInit: FAudioDevice initialized.
+[2018.07.20-12.12.37:037][533]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-12.12.37:038][533]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-13.12.37
+[2018.07.20-12.12.37:038][533]LogWorld: Bringing up level for play took: 0.000749
+[2018.07.20-12.12.37:039][533]LogTemp: Warning: Position report reporting for duty
+[2018.07.20-12.12.37:040][533]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.811
+[2018.07.20-12.26.58:249][491]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-12.26.58:307][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-12.27.08:030][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-12.27.08:255][ 77]LogActorFactory: Actor Factory created Sphere
+[2018.07.20-12.27.09:225][135]LogActorFactory: Actor Factory created Sphere
+[2018.07.20-12.27.16:928][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-12.28.59:345][707]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-12.28.59:362][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-12.28.59:363][707]PIE: New page: PIE session: Level_1 (20 Jul 2018 14:28:59)
+[2018.07.20-12.28.59:363][707]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-12.28.59:367][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003569s)
+[2018.07.20-12.28.59:368][707]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-12.28.59:369][707]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2018.07.20-12.28.59:369][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005946s)
+[2018.07.20-12.28.59:388][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-12.28.59:406][707]LogInit: FAudioDevice initialized.
+[2018.07.20-12.28.59:437][707]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-12.28.59:439][707]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-13.28.59
+[2018.07.20-12.28.59:439][707]LogWorld: Bringing up level for play took: 0.000761
+[2018.07.20-12.28.59:440][707]LogTemp: Warning: Position report reporting for duty
+[2018.07.20-12.28.59:440][707]LogTemp: Warning: Position report reporting for duty
+[2018.07.20-12.28.59:441][707]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0.789
+[2018.07.20-12.29.30:045][316]LogSavePackage: Save=26.56ms
+[2018.07.20-12.29.30:045][316]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto21D20906F40E80D15561502B6AD394D10.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto2.umap'
+[2018.07.20-12.29.30:047][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto2.umap
+[2018.07.20-12.29.30:054][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.065
+[2018.07.20-12.29.30:054][316]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2018.07.20-12.34.27:666][209]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-9815.dll
+[2018.07.20-12.34.28:358][212]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-12.34.28:415][212]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2018.07.20-12.34.28:416][212]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-12.34.28:454][212]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-12.34.28:463][212]Display: HotReload took  0.1s.
+[2018.07.20-12.37.29:873][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-12.39.31:222][ 50]LogSavePackage: Save=33.53ms
+[2018.07.20-12.39.31:222][ 50]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto3C9692C244C707A212C030DA2388E5581.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto3.umap'
+[2018.07.20-12.39.31:225][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto3.umap
+[2018.07.20-12.39.31:234][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.074
+[2018.07.20-12.39.31:235][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2018.07.20-12.52.04:811][311]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-8542.dll
+[2018.07.20-12.52.05:501][314]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-12.52.05:574][314]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2018.07.20-12.52.05:576][314]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-12.52.05:618][314]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-12.52.05:628][314]Display: HotReload took  0.1s.
+[2018.07.20-12.55.36:818][998]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-12.55.36:833][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-12.55.36:834][998]PIE: New page: PIE session: Level_1 (20 Jul 2018 14:55:36)
+[2018.07.20-12.55.36:834][998]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-12.55.36:837][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003138s)
+[2018.07.20-12.55.36:838][998]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-12.55.36:839][998]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.07.20-12.55.36:839][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.004838s)
+[2018.07.20-12.55.36:858][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-12.55.36:876][998]LogInit: FAudioDevice initialized.
+[2018.07.20-12.55.36:909][998]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-12.55.36:910][998]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-13.55.36
+[2018.07.20-12.55.36:911][998]LogWorld: Bringing up level for play took: 0.000967
+[2018.07.20-12.55.36:912][998]LogTemp: Warning: Position report reporting for duty SM_Chair
+[2018.07.20-12.55.36:912][998]LogTemp: Warning: Position report reporting for duty SM_Rock
+[2018.07.20-12.55.36:913][998]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.683
+[2018.07.20-13.12.08:185][737]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.12.08:201][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.12.08:201][737]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:12:08)
+[2018.07.20-13.12.08:201][737]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.12.08:204][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002632s)
+[2018.07.20-13.12.08:205][737]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.12.08:205][737]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2018.07.20-13.12.08:206][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.004655s)
+[2018.07.20-13.12.08:222][737]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.12.08:241][737]LogInit: FAudioDevice initialized.
+[2018.07.20-13.12.08:274][737]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.12.08:276][737]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.12.08
+[2018.07.20-13.12.08:276][737]LogWorld: Bringing up level for play took: 0.000935
+[2018.07.20-13.12.08:277][737]LogTemp: Warning: Position report reporting for duty SM_Chair
+[2018.07.20-13.12.08:277][737]LogTemp: Warning: Position report reporting for duty SM_Rock
+[2018.07.20-13.12.08:278][737]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.048
+[2018.07.20-13.12.14:503][106]MapCheck: New page: Map Check
+[2018.07.20-13.12.14:519][106]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.20-13.12.14:520][106]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.20-13.12.14:548][106]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.20-13.12.14:554][106]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.20-13.12.14:559][106]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.12.14:560][106]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.20-13.12.14:566][106]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.07.20-13.12.15:129][106]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.20-13.12.15:129][106]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.12.15:129][106]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.12.15:129][106]TextureStreamingBuild: Display: Compiling optional shaders took 0.588 seconds.
+[2018.07.20-13.12.15:132][106]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.07.20-13.12.15:136][106]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2018.07.20-13.12.15:147][106]LightingResults: New page: Lighting Build - 20 Jul 2018 15:12:15
+[2018.07.20-13.12.15:160][106]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.20-13.12.15:168][106]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.20-13.12.15:169][106]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.20-13.12.15:171][106]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.20-13.12.15:172][106]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2018.07.20-13.12.19:706][106]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.20-13.12.19:707][106]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.20-13.12.19:707][106]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.20-13.12.19:707][106]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.20-13.12.19:707][106]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.20-13.12.19:707][106]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.20-13.12.19:918][106]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.20-13.12.19:918][106]MapCheck: New page: Level_1 - 20 Jul 2018 15:12:19
+[2018.07.20-13.12.19:924][106]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.20-13.12.19:983][106]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 64.544ms to complete.
+[2018.07.20-13.12.20:007][106]LogEditorBuildUtils: Build time 0:05
+[2018.07.20-13.12.20:048][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.07.20-13.12.20:053][106]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.07.20-13.12.20:086][106]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.20-13.12.22:232][179]Job is a success!
+[2018.07.20-13.12.22:309][180]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2018.07.20-13.12.22:309][180]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.20-13.12.22:310][180]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.07.20-13.12.22:310][180]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.20-13.12.22:310][180]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.07.20-13.12.22:310][180]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.07.20-13.12.22:310][180]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.07.20-13.12.22:366][180]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.07.20-13.12.22:366][180]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.07.20-13.12.22:366][180]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.07.20-13.12.22:366][180]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.07.20-13.12.22:367][180]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.07.20-13.12.22:367][180]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2018.07.20-13.12.22:395][180]Lightmass on DESKTOP-R15A5CV: 1.11 sec total, 169 ms importing, 28 ms setup, 386 ms photons, 478 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.19 sec total, 254 ms processing.
+[2018.07.20-13.12.22:406][180]LogStaticLightingSystem: Illumination: 7.23 sec (34 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2018.07.20-13.12.22:406][180]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.20-13.12.22:406][180]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.20-13.12.22:712][180]DumpUnbuiltLightIteractions
+[2018.07.20-13.12.22:712][180]Lights with unbuilt interactions: 0
+[2018.07.20-13.12.22:712][180]
+[2018.07.20-13.12.22:712][180]Primitives with unbuilt interactions: 0
+[2018.07.20-13.12.22:792][181]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.20-13.12.22:792][181]MapCheck: New page: Level_1 - 20 Jul 2018 15:12:22
+[2018.07.20-13.12.22:854][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.518ms to complete.
+[2018.07.20-13.12.24:372][272]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.12.24:387][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.12.24:387][272]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:12:24)
+[2018.07.20-13.12.24:387][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.12.24:390][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002676s)
+[2018.07.20-13.12.24:392][272]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.12.24:393][272]LogPlayLevel: PIE: World Init took: (0.002389s)
+[2018.07.20-13.12.24:393][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005673s)
+[2018.07.20-13.12.24:408][272]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.12.24:426][272]LogInit: FAudioDevice initialized.
+[2018.07.20-13.12.24:464][272]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.12.24:465][272]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.12.24
+[2018.07.20-13.12.24:465][272]LogWorld: Bringing up level for play took: 0.000772
+[2018.07.20-13.12.24:466][272]LogTemp: Warning: Position report reporting for duty SM_Chair
+[2018.07.20-13.12.24:466][272]LogTemp: Warning: Position report reporting for duty SM_Rock
+[2018.07.20-13.12.24:467][272]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.237
+[2018.07.20-13.12.53:576][659]LogSavePackage: Save=26.86ms
+[2018.07.20-13.12.53:577][659]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto4D3850140468D815AE4E473B866802277.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto4.umap'
+[2018.07.20-13.12.53:578][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto4.umap
+[2018.07.20-13.12.53:586][659]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.062
+[2018.07.20-13.12.53:587][659]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.062
+[2018.07.20-13.12.53:589][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_1_BuiltData] ([1] browsable assets)...
+[2018.07.20-13.12.53:590][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1_BuiltData]
+[2018.07.20-13.12.53:610][659]LogSavePackage: Save=10.87ms
+[2018.07.20-13.12.53:611][659]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_BuiltData_Auto4D7A9673E489AC00C34757884509674A3.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto4.uasset'
+[2018.07.20-13.12.53:612][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto4.uasset
+[2018.07.20-13.12.53:612][659]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.07.20-13.19.41:674][ 93]LogSlate: Window 'Message Log' being destroyed
+[2018.07.20-13.19.41:678][ 93]LogSlate: Window 'Message Log' being destroyed
+[2018.07.20-13.19.45:535][323]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.19.45:552][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.19.45:553][323]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:19:45)
+[2018.07.20-13.19.45:553][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.19.45:556][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002936s)
+[2018.07.20-13.19.45:558][323]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.19.45:558][323]LogPlayLevel: PIE: World Init took: (0.001916s)
+[2018.07.20-13.19.45:559][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005553s)
+[2018.07.20-13.19.45:575][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.19.45:593][323]LogInit: FAudioDevice initialized.
+[2018.07.20-13.19.45:634][323]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.19.45:636][323]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.19.45
+[2018.07.20-13.19.45:636][323]LogWorld: Bringing up level for play took: 0.001293
+[2018.07.20-13.19.45:638][323]LogTemp: Warning: Position report reporting for duty SM_Chair
+[2018.07.20-13.19.45:638][323]LogTemp: Warning: Position report reporting for duty SM_Rock
+[2018.07.20-13.19.45:638][323]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0.591
+[2018.07.20-13.19.50:918][632]MapCheck: New page: Map Check
+[2018.07.20-13.19.50:932][632]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.20-13.19.50:932][632]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.20-13.19.50:956][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.20-13.19.50:964][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.20-13.19.50:968][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.07.20-13.19.50:975][632]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.20-13.19.50:976][632]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.19.50:976][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.07.20-13.19.51:581][632]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.20-13.19.51:581][632]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.19.51:582][632]TextureStreamingBuild: Display: Compiling optional shaders took 0.629 seconds.
+[2018.07.20-13.19.51:585][632]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.07.20-13.19.51:589][632]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2018.07.20-13.19.51:600][632]LightingResults: New page: Lighting Build - 20 Jul 2018 15:19:51
+[2018.07.20-13.19.51:609][632]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.20-13.19.51:612][632]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.20-13.19.51:612][632]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.20-13.19.51:614][632]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.20-13.19.51:615][632]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2018.07.20-13.19.56:146][632]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.20-13.19.56:147][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.20-13.19.56:147][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.20-13.19.56:147][632]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.20-13.19.56:147][632]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.20-13.19.56:147][632]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.20-13.19.56:314][632]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.20-13.19.56:314][632]MapCheck: New page: Level_1 - 20 Jul 2018 15:19:56
+[2018.07.20-13.19.56:373][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.975ms to complete.
+[2018.07.20-13.19.56:396][632]LogEditorBuildUtils: Build time 0:05
+[2018.07.20-13.19.58:505][640]Job is a success!
+[2018.07.20-13.19.58:878][641]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2018.07.20-13.19.58:878][641]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.20-13.19.58:878][641]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.07.20-13.19.58:878][641]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.20-13.19.58:879][641]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.07.20-13.19.58:879][641]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.07.20-13.19.58:879][641]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.07.20-13.19.58:933][641]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.20-13.19.58:933][641]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.20-13.19.58:933][641]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.07.20-13.19.58:934][641]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.07.20-13.19.58:934][641]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.07.20-13.19.58:934][641]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2018.07.20-13.19.58:953][641]Lightmass on DESKTOP-R15A5CV: 1.62 sec total, 156 ms importing, 28 ms setup, 390 ms photons, 1.01 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 6.91 sec total, 255 ms processing.
+[2018.07.20-13.19.58:977][641]LogStaticLightingSystem: Illumination: 7.03 sec (27 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2018.07.20-13.19.58:978][641]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.20-13.19.58:978][641]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.20-13.19.59:150][641]DumpUnbuiltLightIteractions
+[2018.07.20-13.19.59:150][641]Lights with unbuilt interactions: 0
+[2018.07.20-13.19.59:150][641]
+[2018.07.20-13.19.59:150][641]Primitives with unbuilt interactions: 0
+[2018.07.20-13.19.59:220][642]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.20-13.19.59:220][642]MapCheck: New page: Level_1 - 20 Jul 2018 15:19:59
+[2018.07.20-13.19.59:281][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.856ms to complete.
+[2018.07.20-13.20.06:289][663]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-2838.dll
+[2018.07.20-13.20.07:304][667]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-13.20.07:355][667]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2018.07.20-13.20.07:357][667]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-13.20.07:403][667]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2455 classes and 562 folders.
+[2018.07.20-13.20.07:412][667]Display: HotReload took  0.1s.
+[2018.07.20-13.20.09:457][757]MapCheck: New page: Map Check
+[2018.07.20-13.20.09:472][757]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.20-13.20.09:472][757]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.20-13.20.09:500][757]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.20-13.20.09:508][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.20.09:508][757]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.20-13.20.09:514][757]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2018.07.20-13.20.09:522][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.20.09:522][757]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.07.20-13.20.09:786][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.20.09:786][757]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-13.20.09:786][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.291 seconds.
+[2018.07.20-13.20.09:789][757]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.07.20-13.20.09:794][757]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2018.07.20-13.20.09:804][757]LightingResults: New page: Lighting Build - 20 Jul 2018 15:20:09
+[2018.07.20-13.20.09:812][757]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.20-13.20.09:814][757]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.20-13.20.09:815][757]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.20-13.20.09:815][757]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.20-13.20.09:815][757]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2018.07.20-13.20.14:347][757]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.20-13.20.14:347][757]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.20-13.20.14:347][757]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.20-13.20.14:347][757]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.20-13.20.14:347][757]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.20-13.20.14:348][757]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.20-13.20.14:457][757]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.20-13.20.14:457][757]MapCheck: New page: Level_1 - 20 Jul 2018 15:20:14
+[2018.07.20-13.20.14:516][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.863ms to complete.
+[2018.07.20-13.20.14:539][757]LogEditorBuildUtils: Build time 0:05
+[2018.07.20-13.20.16:675][765]Job is a success!
+[2018.07.20-13.20.17:069][766]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2018.07.20-13.20.17:069][766]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.20-13.20.17:069][766]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.07.20-13.20.17:070][766]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.20-13.20.17:070][766]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.07.20-13.20.17:070][766]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.07.20-13.20.17:070][766]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.07.20-13.20.17:132][766]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.07.20-13.20.17:133][766]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.07.20-13.20.17:133][766]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.07.20-13.20.17:133][766]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.07.20-13.20.17:133][766]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.07.20-13.20.17:133][766]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X128)
+[2018.07.20-13.20.17:162][766]Lightmass on DESKTOP-R15A5CV: 1.69 sec total, 160 ms importing, 32 ms setup, 392 ms photons, 1.05 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 7.24 sec total, 260 ms processing.
+[2018.07.20-13.20.17:183][766]LogStaticLightingSystem: Illumination: 7.04 sec (30 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2018.07.20-13.20.17:184][766]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.20-13.20.17:184][766]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.20-13.20.17:356][766]DumpUnbuiltLightIteractions
+[2018.07.20-13.20.17:356][766]Lights with unbuilt interactions: 0
+[2018.07.20-13.20.17:356][766]
+[2018.07.20-13.20.17:356][766]Primitives with unbuilt interactions: 0
+[2018.07.20-13.20.17:433][767]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.20-13.20.17:433][767]MapCheck: New page: Level_1 - 20 Jul 2018 15:20:17
+[2018.07.20-13.20.17:498][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.52ms to complete.
+[2018.07.20-13.21.42:100][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.21.42:116][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.21.42:116][ 86]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:21:42)
+[2018.07.20-13.21.42:116][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.21.42:122][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005142s)
+[2018.07.20-13.21.42:124][ 86]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.21.42:125][ 86]LogPlayLevel: PIE: World Init took: (0.002606s)
+[2018.07.20-13.21.42:125][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.008560s)
+[2018.07.20-13.21.42:142][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.21.42:159][ 86]LogInit: FAudioDevice initialized.
+[2018.07.20-13.21.42:195][ 86]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.21.42:196][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.21.42
+[2018.07.20-13.21.42:197][ 86]LogWorld: Bringing up level for play took: 0.000794
+[2018.07.20-13.21.42:198][ 86]LogTemp: Warning: SM_Chair is at X=-120.000 Y=-50.000 Z=70.000
+[2018.07.20-13.21.42:198][ 86]LogTemp: Warning: SM_Rock is at X=-170.000 Y=120.000 Z=90.000
+[2018.07.20-13.21.42:199][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0.031
+[2018.07.20-13.23.25:633][132]LogSavePackage: Save=27.84ms
+[2018.07.20-13.23.25:633][132]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto5C51E47084FFAF29F5A0B16AF72BA8520.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto5.umap'
+[2018.07.20-13.23.25:636][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto5.umap
+[2018.07.20-13.23.25:643][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.067
+[2018.07.20-13.23.25:643][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2018.07.20-13.23.25:645][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_1_BuiltData] ([1] browsable assets)...
+[2018.07.20-13.23.25:646][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1_BuiltData]
+[2018.07.20-13.23.25:666][132]LogSavePackage: Save=8.90ms
+[2018.07.20-13.23.25:666][132]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_BuiltData_Auto5D404026F4F05E62BC5576A8F5E24F16B.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto5.uasset'
+[2018.07.20-13.23.25:669][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto5.uasset
+[2018.07.20-13.23.25:669][132]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.07.20-13.43.33:888][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.43.44:242][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.43.54:649][ 70]LogActorFactory: Actor Factory created Cylinder
+[2018.07.20-13.43.55:756][136]LogActorFactory: Actor Factory created Cylinder
+[2018.07.20-13.43.57:053][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.44.07:153][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.20-13.44.07:163][812]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.20-13.44.25:357][901]LogEditorActor: Deleted Actor: Actor
+[2018.07.20-13.44.25:368][901]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.07.20-13.45.31:598][505]LogSavePackage: Save=26.67ms
+[2018.07.20-13.45.31:598][505]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto60A119ABA42FD39779E92D2A58AF8BB51.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto6.umap'
+[2018.07.20-13.45.31:601][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto6.umap
+[2018.07.20-13.45.31:605][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.059
+[2018.07.20-13.45.31:606][505]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2018.07.20-13.47.39:569][821]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.47.41:206][919]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.47.58:578][951]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.48.22:462][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-13.49.08:297][108]LogSlate: Window 'ProjectLauncher' being destroyed
+[2018.07.20-13.49.08:303][108]LogSlate: Window 'ProjectLauncher' being destroyed
+[2018.07.20-13.50.03:010][369]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.50.11:049][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.50.32:746][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.50.44:970][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.51.22:939][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.51.29:382][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.51.54:726][ 14]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.51.58:085][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.52.06:307][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.52.30:439][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.20-13.52.30:450][129]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.20-13.52.44:302][956]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-13.52.44:365][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-13.52.52:796][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.52.59:971][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.53.01:961][995]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.53.02:715][ 40]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.53.04:276][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.54.19:309][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.54.23:257][838]Cmd: DELETE
+[2018.07.20-13.54.23:257][838]Cmd: ACTOR DELETE
+[2018.07.20-13.54.23:265][838]LogEditorActor: Deleted Actor: Actor
+[2018.07.20-13.54.23:276][838]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.20-13.54.24:774][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.54.57:880][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.55.24:345][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Frame)
+[2018.07.20-13.55.28:744][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (R)
+[2018.07.20-13.55.45:010][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.55.57:034][397]Cmd: DUPLICATE
+[2018.07.20-13.55.57:035][397]Cmd: ACTOR DUPLICATE
+[2018.07.20-13.56.00:250][585]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.56.14:947][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Frame)
+[2018.07.20-13.56.17:479][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.56.49:906][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.56.57:705][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.57.03:092][287]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.57.03:123][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.57.03:123][287]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:57:03)
+[2018.07.20-13.57.03:123][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.57.03:126][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002730s)
+[2018.07.20-13.57.03:127][287]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.57.03:128][287]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2018.07.20-13.57.03:128][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.004514s)
+[2018.07.20-13.57.03:145][287]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.57.03:162][287]LogInit: FAudioDevice initialized.
+[2018.07.20-13.57.03:200][287]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.57.03:203][287]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.57.03
+[2018.07.20-13.57.03:203][287]LogWorld: Bringing up level for play took: 0.002722
+[2018.07.20-13.57.03:205][287]LogTemp: Warning: SM_Chair is at X=15.956 Y=-128.788 Z=80.000
+[2018.07.20-13.57.03:206][287]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.976
+[2018.07.20-13.57.12:995][869]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-13.57.13:055][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-13.57.40:832][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-13.57.40:848][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-13.57.40:848][522]PIE: New page: PIE session: Level_1 (20 Jul 2018 15:57:40)
+[2018.07.20-13.57.40:849][522]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-13.57.40:852][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003417s)
+[2018.07.20-13.57.40:854][522]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-13.57.40:854][522]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2018.07.20-13.57.40:854][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005585s)
+[2018.07.20-13.57.40:874][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-13.57.40:895][522]LogInit: FAudioDevice initialized.
+[2018.07.20-13.57.40:929][522]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-13.57.40:931][522]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-14.57.40
+[2018.07.20-13.57.40:932][522]LogWorld: Bringing up level for play took: 0.000978
+[2018.07.20-13.57.40:933][522]LogTemp: Warning: SM_Chair is at X=15.956 Y=-128.788 Z=80.000
+[2018.07.20-13.57.40:934][522]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.704
+[2018.07.20-13.57.52:363][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.57.56:121][420]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.57.58:625][570]LogActorFactory: Actor Factory created Cube
+[2018.07.20-13.57.59:973][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.58.02:891][822]EditorErrors: New page: Actor attachment
+[2018.07.20-13.58.18:109][727]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.58.39:743][ 12]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.58.58:379][116]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-13.58.58:435][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-13.59.05:037][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.59.06:980][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.59.09:691][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.59.10:901][846]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-13.59.16:337][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T)
+[2018.07.20-13.59.22:832][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (L)
+[2018.07.20-13.59.26:508][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-13.59.32:789][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-13.59.44:838][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.00.18:531][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.00.38:410][ 30]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.20-14.00.40:542][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.00.42:688][282]LogEditorActor: Deleted Actor: Brush
+[2018.07.20-14.00.42:699][282]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.20-14.01.08:002][794]LogSavePackage: Save=29.25ms
+[2018.07.20-14.01.08:002][794]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto75CB3AA3344B56F21DA6AA6A8C79B63F2.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto7.umap'
+[2018.07.20-14.01.08:003][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto7.umap
+[2018.07.20-14.01.08:007][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.059
+[2018.07.20-14.01.08:007][794]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2018.07.20-14.01.17:874][359]LogEditorActor: Deleted Actor: Actor
+[2018.07.20-14.01.17:885][359]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.07.20-14.01.30:583][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.01.35:654][420]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.20-14.02.05:062][179]LogActorFactory: Actor Factory created Cube
+[2018.07.20-14.02.07:931][351]LogActorFactory: Actor Factory created Cube
+[2018.07.20-14.02.09:036][413]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-14.02.36:137][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-14.02.46:501][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.03.15:833][932]LogSlate: Window 'Save Asset As' being destroyed
+[2018.07.20-14.08.29:705][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.08.30:990][450]EditorErrors: New page: Actor attachment
+[2018.07.20-14.08.58:095][ 60]EditorErrors: New page: Actor attachment
+[2018.07.20-14.09.19:548][340]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-14.09.21:325][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.09.22:958][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-14.10.02:711][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.10.08:037][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.10.09:523][319]EditorErrors: New page: Actor attachment
+[2018.07.20-14.11.04:589][602]EditorErrors: New page: Actor attachment
+[2018.07.20-14.11.07:214][758]EditorErrors: New page: Actor attachment
+[2018.07.20-14.11.19:084][462]EditorErrors: New page: Actor attachment
+[2018.07.20-14.11.21:391][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.20-14.11.21:402][595]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.20-14.11.41:826][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-14.11.43:878][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (L)
+[2018.07.20-14.11.44:887][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.20-14.11.53:435][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.12.02:948][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.12.12:965][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.12.15:862][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.20-14.12.17:616][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.12.26:151][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.12.46:872][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.13.00:345][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.13.13:960][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.13.49:607][364]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-14.13.49:624][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-14.13.49:625][364]PIE: New page: PIE session: Level_1 (20 Jul 2018 16:13:49)
+[2018.07.20-14.13.49:625][364]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-14.13.49:629][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003534s)
+[2018.07.20-14.13.49:630][364]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-14.13.49:630][364]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2018.07.20-14.13.49:630][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005349s)
+[2018.07.20-14.13.49:649][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-14.13.49:667][364]LogInit: FAudioDevice initialized.
+[2018.07.20-14.13.49:703][364]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-14.13.49:705][364]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-15.13.49
+[2018.07.20-14.13.49:705][364]LogWorld: Bringing up level for play took: 0.000847
+[2018.07.20-14.13.49:706][364]LogTemp: Warning: SM_Chair is at X=15.956 Y=-128.788 Z=80.000
+[2018.07.20-14.13.49:706][364]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0.523
+[2018.07.20-14.14.01:860][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.14.01:943][ 92]MapCheck: New page: Map Check
+[2018.07.20-14.14.01:956][ 92]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.20-14.14.01:957][ 92]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.20-14.14.01:985][ 92]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.20-14.14.01:992][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-14.14.01:992][ 92]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.07.20-14.14.01:997][ 92]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_5, compiling. 
+[2018.07.20-14.14.02:004][ 92]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.20-14.14.02:004][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-14.14.02:004][ 92]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.07.20-14.14.02:567][ 92]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.20-14.14.02:567][ 92]TextureStreamingBuild: Display: Compiling optional shaders took 0.587 seconds.
+[2018.07.20-14.14.02:570][ 92]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2018.07.20-14.14.02:575][ 92]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2018.07.20-14.14.02:585][ 92]LightingResults: New page: Lighting Build - 20 Jul 2018 16:14:02
+[2018.07.20-14.14.02:599][ 92]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.20-14.14.02:603][ 92]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.20-14.14.02:603][ 92]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.20-14.14.02:607][ 92]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.20-14.14.02:608][ 92]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12212
+[2018.07.20-14.14.07:138][ 92]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.07.20-14.14.07:139][ 92]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.20-14.14.07:139][ 92]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.20-14.14.07:139][ 92]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.20-14.14.07:139][ 92]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.20-14.14.07:139][ 92]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.20-14.14.07:307][ 92]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.20-14.14.07:307][ 92]MapCheck: New page: Level_1 - 20 Jul 2018 16:14:07
+[2018.07.20-14.14.07:307][ 92]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.07.20-14.14.07:372][ 92]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 65.17ms to complete.
+[2018.07.20-14.14.07:394][ 92]LogEditorBuildUtils: Build time 0:05
+[2018.07.20-14.14.09:563][100]Job is a success!
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.07.20-14.14.09:957][101]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.07.20-14.14.10:019][101]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.20-14.14.10:019][101]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.20-14.14.10:019][101]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.07.20-14.14.10:019][101]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.07.20-14.14.10:020][101]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.07.20-14.14.10:020][101]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X128)
+[2018.07.20-14.14.10:061][101]Lightmass on DESKTOP-R15A5CV: 1.70 sec total, 160 ms importing, 24 ms setup, 386 ms photons, 1.08 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 7.42 sec total, 213 ms processing.
+[2018.07.20-14.14.10:071][101]LogStaticLightingSystem: Illumination: 7.15 sec (31 ms encoding lightmaps, 11 ms encoding shadowmaps)
+[2018.07.20-14.14.10:071][101]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.20-14.14.10:072][101]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.20-14.14.10:142][101]DumpUnbuiltLightIteractions
+[2018.07.20-14.14.10:142][101]Lights with unbuilt interactions: 0
+[2018.07.20-14.14.10:143][101]
+[2018.07.20-14.14.10:143][101]Primitives with unbuilt interactions: 0
+[2018.07.20-14.14.10:241][102]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.20-14.14.10:241][102]MapCheck: New page: Level_1 - 20 Jul 2018 16:14:10
+[2018.07.20-14.14.10:312][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.105ms to complete.
+[2018.07.20-14.14.27:836][574]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe OJAMAUnrealTest Win64 Development -editorrecompile "C:/Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/OJAMAUnrealTest.uproject" -invalidatemakefilesonly
+[2018.07.20-14.14.28:141][574]Invalidating makefiles only in this run.
+[2018.07.20-14.14.28:259][574]Candidate modules for hot reload:
+[2018.07.20-14.14.28:260][574]  OJAMAUnrealTest
+[2018.07.20-14.14.28:260][574]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe OJAMAUnrealTest -ModuleWithSuffix=OJAMAUnrealTest,181 Win64 Development -editorrecompile -canskiplink "C:/Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/OJAMAUnrealTest.uproject" ]
+[2018.07.20-14.14.46:899][574]CompilerResultsLog: New page: Compilation - 20 Jul 2018 16:14:46
+[2018.07.20-14.14.46:899][574]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.07.20-14.14.46:899][574]CompilerResultsLog: Creating makefile for hot reloading OJAMAUnrealTest (no existing makefile)
+[2018.07.20-14.14.46:899][574]CompilerResultsLog: Compiling game modules for hot reload
+[2018.07.20-14.14.46:900][574]CompilerResultsLog: Parsing headers for OJAMAUnrealTestEditor
+[2018.07.20-14.14.46:900][574]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\OJAMAUnrealTest.uproject" "C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\OJAMAUnrealTestEditor\Development\OJAMAUnrealTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.07.20-14.14.46:900][574]CompilerResultsLog: Reflection code generated for OJAMAUnrealTestEditor in 10.3486834 seconds
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: OpenDoor.cpp
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: OpenDoor.gen.cpp
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: OJAMAUnrealTest.init.gen.cpp
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: [4/5] Link UE4Editor-OJAMAUnrealTest-181.dll
+[2018.07.20-14.14.46:901][574]CompilerResultsLog: [5/5] Link UE4Editor-OJAMAUnrealTest-181.lib
+[2018.07.20-14.14.46:901][574]CompilerResultsLog:    Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-181.suppressed.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-181.suppressed.exp
+[2018.07.20-14.14.46:902][574]CompilerResultsLog:    Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-181.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-181.exp
+[2018.07.20-14.14.46:902][574]CompilerResultsLog: Total build time: 18.42 seconds (Local executor: 1.72 seconds)
+[2018.07.20-14.14.46:902][574]LogMainFrame: MainFrame: Module compiling took 18.647 seconds
+[2018.07.20-14.14.46:938][574]LogClass: Could not find existing class OpenDoor in package /Script/OJAMAUnrealTest for HotReload, assuming new class
+[2018.07.20-14.14.46:941][574]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0008 seconds. Added 3 classes and 2 folders.
+[2018.07.20-14.14.46:943][574]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-14.14.46:997][574]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2456 classes and 562 folders.
+[2018.07.20-14.14.47:007][574]Display: HotReload took 18.8s.
+[2018.07.20-14.14.47:009][574]Warning: HotReload operation took 18.8s.
+[2018.07.20-14.14.47:239][574]LogSlate: Window 'Add C++ Component' being destroyed
+[2018.07.20-14.14.47:250][574]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-181.dll
+[2018.07.20-14.14.47:305][575]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-14.14.47:368][575]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2018.07.20-14.14.47:370][575]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-14.14.47:394][575]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2456 classes and 562 folders.
+[2018.07.20-14.14.47:409][575]Display: HotReload took  0.1s.
+[2018.07.20-14.14.59:044][258]LogSavePackage: Save=33.31ms
+[2018.07.20-14.14.59:044][258]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto8E28FD99B428576ACBAE59F819001AA7A.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto8.umap'
+[2018.07.20-14.14.59:046][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto8.umap
+[2018.07.20-14.14.59:053][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.069
+[2018.07.20-14.14.59:053][258]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2018.07.20-14.14.59:056][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_1_BuiltData] ([1] browsable assets)...
+[2018.07.20-14.14.59:056][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_1_BuiltData]
+[2018.07.20-14.14.59:078][258]LogSavePackage: Save=10.89ms
+[2018.07.20-14.14.59:078][258]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_BuiltData_Auto8420E65454D99DEC9524A63986D63A89F.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto8.uasset'
+[2018.07.20-14.14.59:080][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_BuiltData_Auto8.uasset
+[2018.07.20-14.14.59:080][258]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.07.20-14.15.05:544][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.15.25:785][841]Cmd: TRANSACTION UNDO
+[2018.07.20-14.15.25:785][841]LogEditorTransaction: Undo Set Rotation
+[2018.07.20-14.24.59:733][892]LogSavePackage: Save=29.38ms
+[2018.07.20-14.24.59:733][892]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_Auto96EE556114927CC9C0F251486C2D9BBAA.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto9.umap'
+[2018.07.20-14.24.59:735][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Autosaves/Game/Level_1_Auto9.umap
+[2018.07.20-14.24.59:738][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_1' took 0.059
+[2018.07.20-14.24.59:738][892]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2018.07.20-14.25.50:522][217]Cmd: SELECT NONE
+[2018.07.20-14.29.53:364][160]LogHotReload: New module detected: UE4Editor-OJAMAUnrealTest-4804.dll
+[2018.07.20-14.29.54:374][164]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.20-14.29.54:425][164]LogContentBrowser: Native class hierarchy updated for 'OJAMAUnrealTest' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2018.07.20-14.29.54:427][164]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.20-14.29.54:466][164]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2456 classes and 562 folders.
+[2018.07.20-14.29.54:475][164]Display: HotReload took  0.1s.
+[2018.07.20-14.29.57:840][232]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-14.29.57:856][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-14.29.57:856][232]PIE: New page: PIE session: Level_1 (20 Jul 2018 16:29:57)
+[2018.07.20-14.29.57:856][232]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-14.29.57:860][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003244s)
+[2018.07.20-14.29.57:862][232]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-14.29.57:862][232]LogPlayLevel: PIE: World Init took: (0.002196s)
+[2018.07.20-14.29.57:862][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.005990s)
+[2018.07.20-14.29.57:879][232]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-14.29.57:898][232]LogInit: FAudioDevice initialized.
+[2018.07.20-14.29.57:930][232]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-14.29.57:931][232]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-15.29.57
+[2018.07.20-14.29.57:932][232]LogWorld: Bringing up level for play took: 0.001032
+[2018.07.20-14.29.57:933][232]LogTemp: Warning: SM_Chair is at X=15.956 Y=-128.788 Z=80.000
+[2018.07.20-14.29.57:933][232]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 -0.296
+[2018.07.20-14.30.09:807][939]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-14.30.09:879][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-14.30.35:627][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.30.46:639][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-14.30.47:139][149]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.20-14.30.47:155][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.20-14.30.47:155][149]PIE: New page: PIE session: Level_1 (20 Jul 2018 16:30:47)
+[2018.07.20-14.30.47:155][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2018.07.20-14.30.47:159][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002948s)
+[2018.07.20-14.30.47:160][149]LogAIModule: Creating AISystem for world Level_1
+[2018.07.20-14.30.47:160][149]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2018.07.20-14.30.47:160][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.004660s)
+[2018.07.20-14.30.47:176][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.20-14.30.47:194][149]LogInit: FAudioDevice initialized.
+[2018.07.20-14.30.47:225][149]LogLoad: Game class is 'GameModeBase'
+[2018.07.20-14.30.47:227][149]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.07.20-15.30.47
+[2018.07.20-14.30.47:227][149]LogWorld: Bringing up level for play took: 0.000869
+[2018.07.20-14.30.47:228][149]LogTemp: Warning: SM_Chair is at X=15.956 Y=-128.788 Z=80.000
+[2018.07.20-14.30.47:228][149]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 0.999

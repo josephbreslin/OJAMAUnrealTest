@@ -406,7 +406,9 @@
     <NMakeOutput>..\..\Binaries\HTML5\OJAMAUnrealTest-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\OJAMAUnrealTest\OpenDoor.cpp" />
     <ClCompile Include="..\..\Source\OJAMAUnrealTest\PositionReport.cpp" />
+    <ClInclude Include="..\..\Source\OJAMAUnrealTest\OpenDoor.h" />
     <ClInclude Include="..\..\Source\OJAMAUnrealTest\PositionReport.h" />
     <None Include="..\..\OJAMAUnrealTest.uproject" />
     <None Include="..\..\Source\OJAMAUnrealTest.Target.cs" />

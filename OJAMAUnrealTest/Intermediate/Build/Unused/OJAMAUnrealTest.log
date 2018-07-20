@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  OpenDoor.cpp
+  [2/3] Link UE4Editor-OJAMAUnrealTest-4804.dll
+  [3/3] Link UE4Editor-OJAMAUnrealTest-4804.lib
+     Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-4804.suppressed.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-4804.suppressed.exp
+     Creating library C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-4804.lib and object C:\Users\sbgjo\Repositories\UnrealRepos\OJAMAUnrealTest\OJAMAUnrealTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OJAMAUnrealTest-4804.exp
+  Deploying OJAMAUnrealTestEditor Win64 Development...
+  Total build time: 2.83 seconds (Local executor: 1.32 seconds)
