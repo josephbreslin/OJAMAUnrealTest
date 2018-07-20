@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeOJAMAUnrealTest_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/OJAMAUnrealTest",
 				PKG_CompiledIn | 0x00000000,
-				0xCEB6EADF,
-				0xA30C6A19,
+				0xD72F7C38,
+				0x45FE26E1,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

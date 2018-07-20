@@ -582,3 +582,98 @@ LogInit: Object subsystem initialized
 [2018.07.20-10.42.55:258][325]PIE: Play in editor start time for /Game/UEDPIE_0_Level_1 1.028
 [2018.07.20-10.43.07:955][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.07.20-10.43.33:961][876]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.20-10.45.22:246][166]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.20-10.45.22:384][167]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.OJAMAUnrealTest
+[2018.07.20-10.45.22:384][167]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.20-10.45.22:384][167]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.20-10.45.22:384][167]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.20-10.45.22:384][167]LogTemp: BranchPath = DESKTOP-R15A5CV/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-R15A5CV/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.20-10.45.22:384][167]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sbgjo\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.20-10.46.06:037][290]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.20-10.46.06:043][290]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.20-10.46.08:520][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.20-10.46.08:567][576]LogSavePackage: Save=24.95ms
+[2018.07.20-10.46.08:567][576]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1F0D8D47449BD74EEFDE546AFA751FFA1.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap'
+[2018.07.20-10.46.08:571][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap
+[2018.07.20-10.46.08:598][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.20-10.46.08:621][576]LogSavePackage: Save=13.72ms
+[2018.07.20-10.46.08:621][576]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_BuiltData4BDB5FB846052931901D77BC07A0D257.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset'
+[2018.07.20-10.46.08:625][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset
+[2018.07.20-10.48.21:360][239]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Actors/Types/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2018.07.20-10.48.32:029][685]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2018.07.20-10.48.39:317][935]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.48.39:411][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.48.41:343][120]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.48.41:385][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.48.43:913][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2018.07.20-10.48.48:984][976]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2018.07.20-10.48.48:986][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.49.04:684][447]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.49.04:730][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.49.04:827][455]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.49.05:024][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.49.05:056][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.49.07:373][709]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.49.07:400][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.49.26:001][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.50.04:766][139]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.50.04:835][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.50.13:004][979]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.50.13:058][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.50.32:331][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.50.33:559][255]LogActorFactory: Actor Factory created Cube
+[2018.07.20-10.50.34:571][361]LogActorFactory: Actor Factory created Cube
+[2018.07.20-10.50.41:256][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.50.44:545][477]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.50.57:607][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.51.04:285][789]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-10.51.04:328][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.51.10:715][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.51.26:453][636]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.51.26:525][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.51.36:034][ 52]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-10.51.36:101][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.51.37:217][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.20-10.51.39:010][359]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.51.43:677][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.51.59:886][736]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.52.07:891][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.52.20:577][984]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.52.20:615][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.52.22:499][139]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-10.52.22:557][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.52.23:383][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.20-10.52.23:707][249]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.20-10.52.36:478][692]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.20-10.52.36:543][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.52.45:245][566]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.07.20-10.52.45:314][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.52.46:820][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.20-10.52.51:700][257]Cmd: TRANSACTION UNDO
+[2018.07.20-10.52.51:700][257]LogEditorTransaction: Undo Scale Actors
+[2018.07.20-10.52.56:042][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.03:758][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.04:191][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.04:365][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.18:490][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.53.20:013][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.53.20:823][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.20:866][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.20-10.53.21:805][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.20-10.53.50:455][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.52:158][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-10.53.52:168][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.20-10.53.52:224][ 66]LogSavePackage: Save=29.00ms
+[2018.07.20-10.53.52:224][ 66]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_12292DB994EF36F6A0AB858AA28B08605.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap'
+[2018.07.20-10.53.52:230][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1.umap
+[2018.07.20-10.53.52:260][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset" SILENT=true
+[2018.07.20-10.53.52:287][ 66]LogSavePackage: Save=14.81ms
+[2018.07.20-10.53.52:287][ 66]LogSavePackage: Moving '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Saved/Level_1_BuiltDataACEFA1C44495C3C028586CB1077A05C8.tmp' to '../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset'
+[2018.07.20-10.53.52:288][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/sbgjo/Repositories/UnrealRepos/OJAMAUnrealTest/OJAMAUnrealTest/Content/Level_1_BuiltData.uasset
+[2018.07.20-11.26.05:204][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.26.14:436][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.26.14:500][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.26.20:337][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.26.20:344][639]LogSlate: Window 'Class Viewer' being destroyed
+[2018.07.20-11.26.32:472][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.20-11.26.32:475][512]LogSlate: Window 'Class Viewer' being destroyed

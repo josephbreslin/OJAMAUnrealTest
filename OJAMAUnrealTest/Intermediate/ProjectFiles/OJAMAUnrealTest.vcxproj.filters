@@ -1,46 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-	<ItemGroup>
-		<None Include="..\..\OJAMAUnrealTest.uproject" />
-		<Filter Include="Source">
-			<UniqueIdentifier>{4845F9FA-F370-4529-B39E-A1B6CF0AFE54}</UniqueIdentifier>
-		</Filter>
-		<None Include="..\..\Source\OJAMAUnrealTest.Target.cs">
-			<Filter>Source</Filter>
-		</None >
-		<None Include="..\..\Source\OJAMAUnrealTestEditor.Target.cs">
-			<Filter>Source</Filter>
-		</None >
-		<Filter Include="Config">
-			<UniqueIdentifier>{B5244E22-9876-402E-A8BE-349C7F8F4BE4}</UniqueIdentifier>
-		</Filter>
-		<None Include="..\..\Config\DefaultEditor.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultEngine.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultGame.ini">
-			<Filter>Config</Filter>
-		</None >
-		<Filter Include="Source\OJAMAUnrealTest">
-			<UniqueIdentifier>{12E316CF-2F65-4E97-B262-A0C9E3190671}</UniqueIdentifier>
-		</Filter>
-		<None Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.Build.cs">
-			<Filter>Source\OJAMAUnrealTest</Filter>
-		</None >
-		<ClCompile Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.cpp">
-			<Filter>Source\OJAMAUnrealTest</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.h">
-			<Filter>Source\OJAMAUnrealTest</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.cpp">
-			<Filter>Source\OJAMAUnrealTest</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.h">
-			<Filter>Source\OJAMAUnrealTest</Filter>
-		</ClInclude >
-	</ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\OJAMAUnrealTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4845F9FA-F370-4529-B39E-A1B6CF0AFE54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OJAMAUnrealTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OJAMAUnrealTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B5244E22-9876-402E-A8BE-349C7F8F4BE4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OJAMAUnrealTest">
+      <UniqueIdentifier>{12E316CF-2F65-4E97-B262-A0C9E3190671}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.Build.cs">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.cpp">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTest.h">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.cpp">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OJAMAUnrealTest\OJAMAUnrealTestGameModeBase.h">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\OJAMAUnrealTest\PositionReport.h">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\OJAMAUnrealTest\PositionReport.cpp">
+      <Filter>Source\OJAMAUnrealTest</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
